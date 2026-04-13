@@ -20,7 +20,7 @@ jobs:
         dotnet-version: '6.0.x'
 
     - name: Restore dependencies
-      run: dotnet restore
+      run: dotnet restore PROG6221w-POE_CyberSecurityChatBot/PROG6221w-POE_CyberSecurityChatBot.csproj
 
     - name: Build the project
-      run: dotnet build --no-restore --configuration Release
+      run: dotnet build PROG6221w-POE_CyberSecurityChatBot/PROG6221w-POE_CyberSecurityChatBot.csproj --no-restore --configuration Release

@@ -20,15 +20,24 @@ basic cyber security questions in a friendly, conversational way.
 - Input validation and friendly error handling
 
 ## Project Structure
-PROG6221w-POE_CyberSecurityChatBot/
-├── Assets/
-│   ├── ascii-art.txt
-│   └── recording.wav
-├── AudioPlayer.cs
-├── ChatBot.cs
-├── Program.cs
-└── User.cs
-README.md
+```
+PROG6221w-POE_CyberSecurityChatBot/    ← repo root
+├── .github/
+│   └── workflows/
+│       └── dotnet.yml
+├── PROG6221w-POE_CyberSecurityChatBot/    ← project folder
+│   ├── Assets/
+│   │   ├── ascii-art.txt
+│   │   └── recording.wav
+│   ├── AudioPlayer.cs
+│   ├── ChatBot.cs
+│   ├── Program.cs
+│   └── User.cs
+├── .gitattributes
+├── .gitignore
+├── PROG6221w-POE_CyberSecurityChatBot.slnx
+└── README.md
+```
 
 ## How to Run
 1. Clone the repository
