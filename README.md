@@ -78,6 +78,7 @@ PROG6221w-POE_CyberSecurityChatBot/
 
 ## CI/CD
 ![CI Build](https://github.com/ST10465060/PROG6221w-POE_CyberSecurityChatBot/actions/workflows/dotnet.yml/badge.svg)
+![CI Build Status](images/ci-screenshot.png)
 
 ## Video Presentation
 
