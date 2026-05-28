@@ -1,10 +1,10 @@
 ﻿# PROG6221 POE - Cybersecurity Awareness ChatBot
 
-A WPF-based cybersecurity awareness chatbot built in C# with .NET 6.0. The bot educates users about online safety topics like phishing, password hygiene, and privacy — and adapts its tone based on how the user is feeling.
+A WPF-based cybersecurity awareness chatbot built in C# with .NET 6.0. The bot educates users about online safety topics like phishing, password hygiene, and privacy and adapts its tone based on how the user is feeling.
 
 ## Student Information
 
-- **Name:** [YOUR FULL NAME HERE]
+- **Name:** Eduan Pretorius
 - **Student Number:** ST10465060
 - **Module:** PROG6221 - Programming 2A
 - **Assessment:** Portfolio of Evidence (POE) - Part 2
