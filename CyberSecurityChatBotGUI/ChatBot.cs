@@ -85,7 +85,7 @@ namespace CyberSecurityChatBotGUI
                 return "I'm not sure what topic you'd like me to continue on. Try asking about a specific topic first!";
             }
 
-            // --- Step 3: check for interest/favourite topic ---
+            // check for interest/favourite topic 
             if (inputLower.Contains("interested in") || inputLower.Contains("i like") ||
                 inputLower.Contains("favourite topic") || inputLower.Contains("favorite topic"))
             {
