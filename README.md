@@ -86,7 +86,7 @@ PROG6221w-POE_CyberSecurityChatBot/
 
 ## Video Presentation
 
-[YouTube link will be added here after recording]
+https://www.youtube.com/watch?v=i3eLU4S2OLw
 
 ## Releases
 
