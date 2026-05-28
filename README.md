@@ -80,6 +80,10 @@ PROG6221w-POE_CyberSecurityChatBot/
 ![CI Build](https://github.com/ST10465060/PROG6221w-POE_CyberSecurityChatBot/actions/workflows/dotnet.yml/badge.svg)
 ![CI Build Status](images/ci-screenshot.png)
 
+## Application Screenshot
+
+![Chatbot GUI](images/gui-screenshot.png)
+
 ## Video Presentation
 
 [YouTube link will be added here after recording]
