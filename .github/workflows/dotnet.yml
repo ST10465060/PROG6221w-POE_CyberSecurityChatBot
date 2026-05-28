@@ -11,16 +11,16 @@ jobs:
     runs-on: windows-latest
 
     steps:
-    - name: Checkout repository
-      uses: actions/checkout@v3
+      - name: Checkout repository
+        uses: actions/checkout@v3
 
-    - name: Setup .NET 6.0
-      uses: actions/setup-dotnet@v3
-      with:
-        dotnet-version: '6.0.x'
+      - name: Setup .NET 6.0
+        uses: actions/setup-dotnet@v3
+        with:
+          dotnet-version: '6.0.x'
 
-    - name: Restore dependencies
-      run: dotnet restore PROG6221w-POE_CyberSecurityChatBot/PROG6221w-POE_CyberSecurityChatBot.csproj
+      - name: Restore all dependencies
+        run: dotnet restore
 
-    - name: Build the project
-      run: dotnet build PROG6221w-POE_CyberSecurityChatBot/PROG6221w-POE_CyberSecurityChatBot.csproj --no-restore --configuration Release
+      - name: Build entire solution
+        run: dotnet build --no-restore --configuration Release
