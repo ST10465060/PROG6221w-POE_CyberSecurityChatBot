@@ -25,6 +25,7 @@ Part 1 was a console app. Part 2 moves everything into a proper GUI using WPF, a
 
 ## Project Structure
 
+```
 PROG6221w-POE_CyberSecurityChatBot/
 ├── .github/
 │   └── workflows/
@@ -54,7 +55,7 @@ PROG6221w-POE_CyberSecurityChatBot/
 ├── .gitignore
 ├── PROG6221w-POE_CyberSecurityChatBot.slnx
 └── README.md
-
+```
 ## How to Run
 
 1. Clone the repository or extract the ZIP file.
