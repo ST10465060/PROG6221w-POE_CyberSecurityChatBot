@@ -138,7 +138,8 @@ Note: Replace YOUR_USERNAME and YOUR_PASSWORD with the credentials you set durin
 ## Video Presentation
 
 Part 2 - https://www.youtube.com/watch?v=i3eLU4S2OLw
-Part 3 - 
+
+Part 3 - https://youtu.be/SMdnxsPzHJc 
 
 ## Releases
 
