@@ -13,7 +13,7 @@ namespace CyberSecurityChatBotGUI
         public DatabaseHelper()
         {
             // update these with your own MySQL credentials
-            _connectionString = "Server=localhost;Port=3306;Database=cybersecurity_chatbot;Uid=root;Pwd=0917Edu@n1244;SslMode=Preferred;AllowPublicKeyRetrieval=True;";
+            _connectionString = "Server=localhost;Port=3306;Database=cybersecurity_chatbot;Uid=root;Pwd=YOUR_PASSWORD;SslMode=Preferred;AllowPublicKeyRetrieval=True;";
         }
 
         // adds a new task to the database and returns the generated ID
